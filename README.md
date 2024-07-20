@@ -9,7 +9,7 @@
 <p>An <b>full stack <b> and <b>ML developer</b> who loves creating stuff with gusto! </p>
 
 <div align="center" style="display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     justify-self: center;
     flex-wrap: wrap;
     flex-direction: row;
