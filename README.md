@@ -12,6 +12,7 @@
     justify-content: space-evenly;
     justify-self: center;
     flex-wrap: wrap;
+    flex-direction: row;
     gap:2em"> 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
