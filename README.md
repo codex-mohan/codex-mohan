@@ -72,21 +72,6 @@ I am a dedicated Computer Science student with a strong drive to build innovativ
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codex-mohan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&icon_color=53F7A5&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-mohan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&text_color=c9d1d9" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-mohan&theme=radical&hide_border=true&background=0d1117&stroke=53F7A5&ring=53F7A5&fire=ff6b6b&currStreakLabel=53F7A5" width="100%" />
-</div>
-
----
-
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=codex-mohan&color=53F7A5&style=flat-square&label=Profile+Views" alt="Profile Views" /></p>
   <b>Show some ❤️ by starring the repositories you find useful!</b>
