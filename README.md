@@ -63,6 +63,8 @@ I am a dedicated Computer Science student with a strong drive to build innovativ
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" /> &nbsp;
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" /> &nbsp;
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" /> &nbsp;
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" title="Bun" /> &nbsp;
+  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" title="pnpm" /> &nbsp;
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" title="Vite" /> &nbsp;
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" /> &nbsp;
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" />
@@ -73,20 +75,14 @@ I am a dedicated Computer Science student with a strong drive to build innovativ
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/codex-mohan">
-    <img src="https://github-readme-stats.vercel.app/api?username=codex-mohan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&icon_color=53F7A5&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/codex-mohan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-mohan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&text_color=c9d1d9" height="180" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=codex-mohan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&icon_color=53F7A5&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-mohan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=53F7A5&text_color=c9d1d9" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/codex-mohan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-mohan&theme=radical&hide_border=true&background=0d1117&stroke=53F7A5&ring=53F7A5&fire=ff6b6b&currStreakLabel=53F7A5" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-mohan&theme=radical&hide_border=true&background=0d1117&stroke=53F7A5&ring=53F7A5&fire=ff6b6b&currStreakLabel=53F7A5" width="100%" />
 </div>
 
 ---
