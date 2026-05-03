@@ -90,7 +90,7 @@ From responsive UIs to robust backends and fancy ML models — I do it all with 
 
 ---
 
-### ⚡ GitHub Activity Highlights
+### ⚡ GitHub Activity Highlights 
 
 *(More projects coming soon...)*
 
