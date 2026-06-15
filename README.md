@@ -50,7 +50,44 @@ An agentic AI assistant engineered using LangGraph, Next.js, and Docker to execu
 
 ---
 
+<<<<<<< HEAD
 <div align="center">
   <p><i>Building lightweight, low-latency applications at the network and model edge.</i></p>
   <a href="mailto:codexmohan@gmail.com">Initiate Systems Collaboration</a>
 </div>
+=======
+### 💡 About Me
+
+From responsive UIs to robust backends and fancy ML models — I do it all with energy and enthusiasm!
+
+- 🔭 **Currently Building:** Advanced Full Stack integrations & AI Agents
+- 🌱 **Constantly Learning:** New paradigms in web tech & Deep Learning
+- ⚡ **Fun Fact:** Debugging is just searching for things you forgot to add... or did you remove?
+
+---
+
+### 📚 Currently Exploring
+
+| Domain | Focus Areas |
+|--------|-------------|
+| 🤖 **AI & ML** | LLMs, AI Agents, RAG Systems, PyTorch |
+| 🌐 **Web Dev** | Next.js, TypeScript, FastAPI, REST APIs |
+| 📱 **Desktop** | Tauri, Electron, Cross-platform apps |
+| 🔧 **DevOps** | Git, Linux, Build tools |
+
+---
+
+### ⚡ GitHub Activity Highlights 
+
+*(More projects coming soon...)*
+
+---
+
+<p align="center">
+  <strong>⭐ Star my repos if you find them useful! Let's build something amazing together.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Codex%20Mohan-53F7A5?style=for-the-badge&logo=heart&logoColor=white" alt="Made with ❤️ by Codex Mohan" />
+</p>
+>>>>>>> bf58abdcbb3e429a9b994828244ad558fb94e7ae
